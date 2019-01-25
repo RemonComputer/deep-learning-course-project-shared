@@ -1,0 +1,23 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+# igonre images
+*.jpeg
+*.jpg
+*.png
+*.tif
+*.gif
+
+# ignore labels file
+*.csv
+
+# ignore the dataset images folder
+train/
+test/
+our_train/
+
+# ignore compressesd files
+*.gz
+*.zip
