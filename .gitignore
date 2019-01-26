@@ -25,3 +25,6 @@ our_train/
 *.gz
 *.zip
 *.tar.*
+
+# ignoring jupyter checkpoints
+.ipynb_checkpoints/
