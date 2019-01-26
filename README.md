@@ -4,7 +4,10 @@ This is is a try to help our deep learning fall 2018 students, This repository s
 # Competition Link
 I worked with this Competition Link: https://www.kaggle.com/c/whale-categorization-playground
 
+# Restricting the Training Data
+- The Training Data has been restricted using the script in "Filtering Training Data" folder.
+- To modify the filtering modify the "file main.py" but you will find the filtered training data at: https://drive.google.com/open?id=10K3UcGn0WhDaXdTdiKx4QhQIeXBd-5RF
+
 # To do
-- Filter the dataset and upload it on a shared google drive link
 - Make an initialization notebook that install julia and download the shared dataset
 - Put another folder that explains how to filter the dataset and how hacking colab words (don't forget to add the credits links) 

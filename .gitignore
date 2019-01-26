@@ -18,6 +18,10 @@ train/
 test/
 our_train/
 
+# Pycharm project files
+.idea
+
 # ignore compressesd files
 *.gz
 *.zip
+*.tar.*
