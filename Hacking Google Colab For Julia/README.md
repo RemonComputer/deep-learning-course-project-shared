@@ -9,7 +9,12 @@
 - For more info and How did I know this info in the first place see the Credits Section.
 
 # How to open those notebooks from colab
-To Do: Test them first
+- To open any of the above notebooks:
+    - Choose File -> open notebook -> upload -> choose the notebook file
+    - You can now run the notebook
+- Run the installation note book
+- Run the Julia Kernel notebook as your starting point.
+- If you at any point you find that colab cannot run julia commands then this means that the environment has been reset and you need to need to re-run the intsallation notebook, and you might need to re-run Julia Kernel notebook (I didn't try it).
     
 # Credits
 - https://discourse.julialang.org/t/julia-on-google-colab-free-gpu-accelerated-shareable-notebooks/15319
