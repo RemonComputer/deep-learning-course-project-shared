@@ -9,10 +9,10 @@
 - For more info and How did I know this info in the first place see the Credits Section.
 
 # How to open those notebooks from colab
-- To open any of the above notebooks:
+- To open any of the above notebooks (in colab do the following):
     - Choose File -> open notebook -> upload -> choose the notebook file
     - You can now run the notebook
-- Run the installation note book
+- Run the installation notebook
 - Run the Julia Kernel notebook as your starting point.
 - If you at any point you find that colab cannot run julia commands then this means that the environment has been reset and you need to need to re-run the intsallation notebook, and you might need to re-run Julia Kernel notebook (I didn't try it).
     

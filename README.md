@@ -6,10 +6,11 @@ I worked with this Competition Link: https://www.kaggle.com/c/whale-categorizati
 
 # Restricting the Training Data
 - The Training Data has been restricted using the script in "Filtering Training Data" folder.
-- To modify the filtering modify the "file main.py" but you will find the filtered training data at: https://drive.google.com/open?id=10K3UcGn0WhDaXdTdiKx4QhQIeXBd-5RF
+- To modify the filtering modify the file "main.py" but you will find the filtered training data at: https://drive.google.com/open?id=10K3UcGn0WhDaXdTdiKx4QhQIeXBd-5RF
 
 # How to work with colab with Julia
-- see "Hacking Google Colab For Julia" Folder 
+- see "Hacking Google Colab For Julia" Folder. 
 
-# To do
-- Make an initialization notebook that install julia and download the shared dataset 
+# Starter Project
+- see "Starter Project" Folder.
+- This is the starting point for your project.
